@@ -7,17 +7,41 @@
   min-height: 300px;
 }
 
-.left-navbar,
-.right-navbar {
+.left-navbar {
   width: 20%;
-  background-color: #e0f7fa;
+  background-color: #cbd5e1;
   padding: 15px;
   border-radius: 8px;
+  height: 400px;
+}
+.right-navbar {
+  width: 20%;
+  background-color: #cbd5e1;
+  padding: 15px;
+  border-radius: 8px;
+  height: 400px;
 }
 
 .content {
   width: 60%;
-  background-color: #fff3e0;
+  background-color: #e2e8f0;
   padding: 15px;
   border-radius: 8px;
+}
+.box1{
+  border-color: #475569;
+  border-width: 1px;
+  border-style: solid;
+  padding: 40px;
+  height: 100px;
+  margin: 20px;
+}
+.box2{
+  border-color: #475569;
+  border-width: 1px;
+  border-style: solid;
+    padding: 40px;
+  height: 100px;
+  margin: 20px;
+
 }

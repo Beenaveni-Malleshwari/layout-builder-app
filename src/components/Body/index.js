@@ -33,8 +33,8 @@ class Body extends Component {
     return (
       <div className="right-navbar">
         <h2>Right Navbar</h2>
-        <p>Ad 1</p>
-        <p>Ad 2</p>
+        <p className="box1">Ad 1</p>
+        <p className="box2">Ad 2</p>
       </div>
     )
   }

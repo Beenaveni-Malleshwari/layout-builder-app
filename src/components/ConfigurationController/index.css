@@ -1,15 +1,17 @@
 .controller-container {
   margin: 20px 0;
   padding: 15px;
-  background-color: #f1f8e9;
+  background-color: #475569;
   border-radius: 10px;
   display: flex;
+  flex-direction: column;
   gap: 20px;
-  align-items: center;
+  color: white;
+  font-size: 30px;
 }
 
 .controller-container h1 {
-  margin-right: 20px;
+  margin: 20px;
   font-size: 1.5rem;
 }
 
@@ -19,4 +21,12 @@
   gap: 5px;
   font-size: 1.1rem;
   cursor: pointer;
+}
+.heading {
+  font-size: 30px;
+  margin: 20px;
+}
+.checkbox{
+    accent-color: #1e40af; /* Tailwind blue-800 color */
+
 }

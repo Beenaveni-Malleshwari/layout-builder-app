@@ -1,3 +1,8 @@
 .heading {
   text-align: center;
+  background: #cbd5e1;
+  height: 100px;
+}
+.heading1 {
+  padding: 20px;
 }
