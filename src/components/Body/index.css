@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.body-container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  background-color: #f9fafb;
+  min-height: 300px;
+}
+
+.left-navbar,
+.right-navbar {
+  width: 20%;
+  background-color: #e0f7fa;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.content {
+  width: 60%;
+  background-color: #fff3e0;
+  padding: 15px;
+  border-radius: 8px;
+}
